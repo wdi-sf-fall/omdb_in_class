@@ -1,13 +1,15 @@
 # OMDB API Exercise
 
-## Requirements
+## In-class
+
+### Requirements
 Create an Express site that displays a form to the user.
 It should have one field that accepts a search term. Use an
 Express route to handle the form submission. When the form is
 submitted, your handler should make a request to the API from
 http://www.omdbapi.com/ for movies matching the search term.
 
-## Steps
+### Steps
 - Create an Express App. (done for you :)
 - Create a route for the home page ("/"). (done for you :)
 - The home page should use an .ejs template to display a `<form>`.
@@ -17,6 +19,11 @@ http://www.omdbapi.com/ for movies matching the search term.
   movies matching the search term.
 - Process the JSON results and display movie info on the page using
   another .ejs template.
+
+
+## Lab
+
+To be continued...
 
 ## Links
 
